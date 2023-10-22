@@ -1,8 +1,7 @@
-import { useState } from 'react';
 import './App.css';
-import instances from './axiosRequest';
 import requests from './request';
 import Row from './Row';
+import Banner from './Banner';
 
 
 function App() {
@@ -11,7 +10,8 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>Hey what do you want to watch</h1>
+      {/* {Navbar} */}
+      <Banner />
       <Row title="NETFLIX ORIGINALS" fetchUrl={requests.fetchNetflixOriginals} isLargeRow />
       <Row title="TRENDINGS" fetchUrl={requests.fetchTrending} />
       <Row title="TOPRATED" fetchUrl={requests.fetchTopRated} />

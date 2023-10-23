@@ -19,9 +19,8 @@ function Banner() {
 
     function truncate(str, n) {
         if (str?.length <= n) {
-            return str; // No need to truncate, the text is already within the maxLength.
+            return str;
         } else {
-            // Truncate the text to the specified maxLength and add an ellipsis.
             return str?.length > n ? str.substr(0, n - 1) + '...' : str;
         }
     }

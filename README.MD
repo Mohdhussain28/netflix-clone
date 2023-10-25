@@ -2,7 +2,7 @@
 
 This is a Netflix clone built using React. It replicates the user interface of the popular streaming platform, Netflix.
 
-![Netflix Clone Screenshot](Screenshot (224).png)
+![Netflix Clone Screenshot](https://github.com/Mohdhussain28/netflix-clone/blob/master/Screenshot%20(224).png)
 
 ## Features
 

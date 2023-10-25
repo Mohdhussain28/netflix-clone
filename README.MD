@@ -25,6 +25,10 @@ This is a Netflix clone built using React. It replicates the user interface of t
 To run this project on your local machine, follow these steps:
 - npm start
 
+[![Website](https://img.shields.io/badge/website-live-green
+)](https://netflix-clone1-171b8.web.app/)
+
+
 1. Clone this repository:
 
    ```bash

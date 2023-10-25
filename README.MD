@@ -2,7 +2,12 @@
 
 This is a Netflix clone built using React. It replicates the user interface of the popular streaming platform, Netflix.
 
-![Netflix Clone Screenshot](https://github.com/Mohdhussain28/netflix-clone/blob/master/Screenshot%20(224).png)
+![Netflix Clone Screenshot](
+https://github.com/Mohdhussain28/netflix-clone/blob/master/Screenshot%20(224).png
+https://github.com/Mohdhussain28/netflix-clone/blob/master/Screenshot%20(225).png
+https://github.com/Mohdhussain28/netflix-clone/blob/master/Screenshot%20(226).png
+https://github.com/Mohdhussain28/netflix-clone/blob/master/Screenshot%20(227).png
+)
 
 ## Features
 
@@ -20,6 +25,7 @@ This is a Netflix clone built using React. It replicates the user interface of t
 ## Installation
 
 To run this project on your local machine, follow these steps:
+- npm start
 
 1. Clone this repository:
 

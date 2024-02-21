@@ -17,7 +17,7 @@ This is a Netflix clone built using React. It replicates the user interface of t
 ## Technologies Used
 
 - **React**: Frontend framework for building the user interface.
-- **Firebase**: For user authentication and hosting.
+- **AWS AMPLIFY**: For hosting.
 - **TMDB API**: To fetch movie and TV show data.
 
 ## Installation

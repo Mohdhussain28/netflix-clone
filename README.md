@@ -26,7 +26,7 @@ To run this project on your local machine, follow these steps:
 - npm start
 
 [![Website](https://img.shields.io/badge/website-live-green
-)](https://netflix-clone1-171b8.web.app/)
+)](https://master.dtn6ty6rln61d.amplifyapp.com/)
 
 
 1. Clone this repository:

@@ -17,7 +17,7 @@ This is a Netflix clone built using React. It replicates the user interface of t
 ## Technologies Used
 
 - **React**: Frontend framework for building the user interface.
-- **Firebase**: For user authentication and hosting.
+- **AWS**: For user authentication and hosting.
 - **TMDB API**: To fetch movie and TV show data.
 
 ## Installation
@@ -26,7 +26,7 @@ To run this project on your local machine, follow these steps:
 - npm start
 
 [![Website](https://img.shields.io/badge/website-live-green
-)](https://netflix-clone1-171b8.web.app/)
+)](https://master.dtn6ty6rln61d.amplifyapp.com/)
 
 
 1. Clone this repository:
